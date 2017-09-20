@@ -1,14 +1,17 @@
 # German language, culture and history through film
 
-This is a list of German language films with English subtitles.
+This is a list of German language films with English subtitles that are both
+entertaining and useful for learning German language, culture and history.
+
+Contributions welcome!
 
 ## War
 
-### die Weiße Rose
+### Sophie Scholl - die Weiße Rose
 
 Takes place in 1942-1943, Munich.
 
-- [Amazon](https://www.amazon.de/gp/video/detail/B01MYA7H1M) (remake)
+- [Amazon](https://www.amazon.de/gp/video/detail/B01MYA7H1M) (2014 remake, Die letzten Tage)
 
 ### Franz und Polina
 
@@ -18,11 +21,15 @@ Takes place in Ukraine during WWII. German and Russian dialog.
 
 ### Generation War
 
+Takes place in 1941 in Berlin.
+
 - [trailer](https://www.youtube.com/watch?v=TmyGPX23px4)
 - [Google](https://play.google.com/store/tv/show/Generation_War?id=xJWFKTYfOHs)
 - [NetFlix](https://www.netflix.com/watch/70286692) (no subtitles?)
 
 ### Der Untergang (Downfall)
+
+Takes place in Berlin, 1945.
 
 - [Amazon Video](https://www.amazon.de/gp/video/detail/B00JO955KS)
 
