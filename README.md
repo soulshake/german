@@ -1,4 +1,6 @@
-# Films
+# German language, culture and history through film
+
+This is a list of German language films with English subtitles.
 
 ## War
 
@@ -10,13 +12,15 @@ Takes place in 1942-1943, Munich.
 
 ### Franz und Polina
 
-Takes place in Ukraine. Partially in German, partially in Russian.
+Takes place in Ukraine during WWII. German and Russian dialog.
 
 - [YouTube](https://www.youtube.com/watch?v=-bHf3N0HTdw) (free)
 
 ### Generation War
 
-- [trailer](https://www.youtube.com/watch?v=TmyGPX23px4) [Google](https://play.google.com/store/tv/show/Generation_War?id=xJWFKTYfOHs)
+- [trailer](https://www.youtube.com/watch?v=TmyGPX23px4)
+- [Google](https://play.google.com/store/tv/show/Generation_War?id=xJWFKTYfOHs)
+- [NetFlix](https://www.netflix.com/watch/70286692) (no subtitles?)
 
 ### Der Untergang (Downfall)
 
@@ -36,19 +40,31 @@ Takes place 1958-1963.
 
 - [Google](https://play.google.com/store/movies/details/Labyrinth_Of_Lies?id=VJVG3QD2aDY)
 
+### Stroszek
+
+Takes place in 1970, Berlin and Wisconsin.
+
+- [YouTube](https://www.youtube.com/watch?v=Cy7pxt2MBSk)
+- [Google](https://play.google.com/store/movies/details/Werner_Herzog_film_collection_Stroszek?id=-1PYwvWoaEY)
+
 ### Barbara
 
-Takes place in East Germany, 1980.
+Takes place in 1980, East Germany.
 
 - [Google](https://play.google.com/store/movies/details/Barbara?id=8hHy-GK8MQQ)
 
 ### Das Leben der Anderen / The Lives of Others
 
+Takes place in 1984, East Germany.
+
 - [Google](https://play.google.com/store/movies/details/The_Lives_of_Others?id=RZEUw4F3pEA)
 
 ### Goodbye Lenin
 
-- FIXME
+Takes place 1989-90, East Berlin.
+
+- [NetFlix](https://www.netflix.com/title/60034095) (not available in Germany?)
+- [YouTube video](https://www.youtube.com/watch?v=Zyz7NOs3F2o) (no subtitles?)
 
 ## Post-wall
 
@@ -57,13 +73,10 @@ Takes place in East Germany, 1980.
 
 # Other
 
-## German dramas
-
-- [German movies on Netflix](https://www.netflix.com/browse/genre/58755?bc=58886)
+- [German movies on Netflix](https://www.netflix.com/browse/genre/58755?bc=58886) (subtitles not guaranteed)
 
 ## Not watched yet
 
-- Stroszek [Google](https://play.google.com/store/movies/details/Werner_Herzog_film_collection_Stroszek?id=-1PYwvWoaEY)
 - Toyland (short film?) [YouTube](https://www.youtube.com/watch?v=Y0tBSx98knE)
 
 ## Not in German but hella good
