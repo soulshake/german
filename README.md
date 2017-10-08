@@ -5,6 +5,10 @@ entertaining and useful for learning German language, culture and history.
 
 Contributions welcome!
 
+Movies with German audio and English subtitles:
+
+- [Netflix](https://unogs.com/?q=-!1900,2017-!0,5-!0,10-!0,10-!Any-!Any-!German-!English-!I%20Don&cl=23,29,33,307,45,39,337,357,67,68,392,408,270,73,46,78,&st=adv&ob=Relevance&p=1&ao=and) (via unoggs.com)
+
 ## War
 
 ### Sophie Scholl - die Weiße Rose
