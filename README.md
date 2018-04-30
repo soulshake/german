@@ -62,7 +62,7 @@ Takes place in 1970, Berlin and Wisconsin.
 
 Takes place in 70s Berlin.
 
-- [Youtube video] (https://www.youtube.com/watch?v=8SaW_Y06fpU)
+- [Youtube](https://www.youtube.com/watch?v=8SaW_Y06fpU)
 
 ### Barbara
 
@@ -96,20 +96,25 @@ Takes place 1989-90, East Berlin.
 
 ## TV Shows
 
-# Dark
-- science-fiction thriller and the first German-language Netflix original series [Netflix] (https://www.netflix.com/de-en/title/80100172)
+### Dark
+- science-fiction thriller and the first German-language Netflix original series 
+[Netflix](https://www.netflix.com/de-en/title/80100172)
 
-# Lindenstrasse
-- a long-running German soap opera (http://www.ardmediathek.de/tv/Lindenstra%C3%9Fe/Sendung?documentId=5280&bcastId=5280)
+### Lindenstrasse
+- a long-running German soap opera 
+[ARD](http://www.ardmediathek.de/tv/Lindenstra%C3%9Fe/Sendung?documentId=5280&bcastId=5280)
 
-# Vorstadtweiber 
-- an Austrian version of Desperate Housewives (http://mediathek.daserste.de/Vorstadtweiber/Sendung?documentId=27720756&topRessort&bcastId=27720756)
+### Vorstadtweiber 
+- an Austrian version of Desperate Housewives 
+[Das Erste](http://mediathek.daserste.de/Vorstadtweiber/Sendung?documentId=27720756&topRessort&bcastId=27720756)
 
-# Die Anstalt 
-- a political comedy show (https://www.zdf.de/comedy/die-anstalt)
+### Die Anstalt 
+- a political comedy show 
+[ZDF](https://www.zdf.de/comedy/die-anstalt)
 
-# Die Pfefferkoerner 
-- a crime-solving children's show (https://www.ndr.de/fernsehen/sendungen/pfefferkoerner/index.html)
+### Die Pfefferkoerner 
+- a crime-solving children's show 
+[NDR](https://www.ndr.de/fernsehen/sendungen/pfefferkoerner/index.html)
 
 ## Not watched yet
 
