@@ -133,7 +133,7 @@ Takes place 1989-90, East Berlin.
 
 - Toyland (short film?) [YouTube](https://www.youtube.com/watch?v=Y0tBSx98knE)
 - Land of Mine / Under Sandet [YouTube](https://www.youtube.com/watch?v=hntghz3xy30)
-- Ku'damm 56 [NetFlix](https://www.netflix.com/watch/80113229): Berlin 1956. The young Monika Schöllack fights against her strict mother and the conventions of the time. She gets the power for this through her great passion: Rock 'n' Roll.
+- Ku'damm 56 ([NetFlix](https://www.netflix.com/watch/80113229), [ZDF](https://www.zdf.de/filme/kudamm-56/kudamm-56-teil-1-102.html)): Berlin 1956. The young Monika Schöllack fights against her strict mother and the conventions of the time. She gets the power for this through her great passion: Rock 'n' Roll.
 
 ## Not in German but hella good
 
