@@ -44,6 +44,7 @@ Takes place in 1941 in Berlin.
 #### Das Boot
 
 A German classic film that takes place during WWII.
+
 - [Youtube](https://www.youtube.com/watch?v=Pz_shtYhMu8)
 
 #### Der Untergang (Downfall)
@@ -108,27 +109,39 @@ Takes place 1989-90, East Berlin.
 ## Post-wall
 
 ### Gegen die Wand 
+
 A suicidal woman sets up a marriage of convenience to break free from familial restrictions. 
+
 [trailer](https://www.youtube.com/watch?v=gGd6RaoYPxo)
 
 ### Lola rennt 
+
 Lola has 20 minutes to come up with 100,000 Deutschmarks after a botched money delivery. 
+
 [trailer](https://www.youtube.com/watch?v=uz2-D4lY2qg)
 
 ### Er ist wieder da 
+
 Adolf Hitler wakes up in the 21st century.
+
 [trailer](https://www.youtube.com/watch?v=6Q_oh9wrJv0)
 
 ### Der Schuh des Manitu 
+
 German parody of western films. 
+
 [clip](https://www.youtube.com/watch?v=x5KNZYDEdBo)
 
 ### Fack Ju Goehte 
+
 A silly comedy. 
+
 [trailer](https://www.youtube.com/watch?v=_rJKHTjVaFk)
 
 ### Die Welle
+
 A thriller inspired by the true story of a teacher who designed an experiment to teach his students about Nazism. 
+
 [trailer](https://youtu.be/4FYDF8wGn5E)
 
 
@@ -140,52 +153,72 @@ A thriller inspired by the true story of a teacher who designed an experiment to
 ## TV Shows
 
 #### Dark
+
 A science-fiction thriller and the first German-language Netflix original series. 
+
 [Netflix](https://www.netflix.com/de-en/title/80100172)
 
 #### Deutschland 83
+
 A rookie spy is recruited by the HVA to infiltrate the West German army.
+
 [Amazon](https://www.amazon.de/Deutschland-83-Staffel-1/dp/B018J45ERC)
 
 #### Tuerkisch für Anfaenger
+
 A dramedy that focuses on a German-Turkish family and their everyday lives. 
+
 [Das Erste](http://www.daserste.de/unterhaltung/serie/tuerkisch-fuer-anfaenger/index.html)
 
 #### Lindenstrasse
+
 A long-running German soap opera.
+
 [ARD](http://www.ardmediathek.de/tv/Lindenstra%C3%9Fe/Sendung?documentId=5280&bcastId=5280)
 
 #### Vorstadtweiber 
-An Austrian version of Desperate Housewives. 
+
+An Austrian version of Desperate Housewives.
+
 [Das Erste](http://mediathek.daserste.de/Vorstadtweiber/Sendung?documentId=27720756&topRessort&bcastId=27720756)
 
 #### Die Anstalt 
+
 A political comedy show. 
+
 [ZDF](https://www.zdf.de/comedy/die-anstalt)
 
 #### Die Pfefferkoerner 
+
 A crime-solving children's show with relatively easy German.
+
 [NDR](https://www.ndr.de/fernsehen/sendungen/pfefferkoerner/index.html)
 
 
 ## Not watched yet
 
-### Toyland (short film?) 
+#### Toyland (short film?) 
+
 [YouTube](https://www.youtube.com/watch?v=Y0tBSx98knE)
 
-### Land of Mine / Under Sandet 
+#### Land of Mine / Under Sandet 
+
 [YouTube](https://www.youtube.com/watch?v=hntghz3xy30)
 
-### Ku'damm 56 
+#### Ku'damm 56 
+
 Berlin 1956: The young Monika Schöllack fights against her strict mother and the conventions of the time. She gets the power for this through her great passion: Rock 'n' Roll.
+
 [NetFlix](https://www.netflix.com/watch/80113229)
 [ZDF](https://www.zdf.de/filme/kudamm-56/kudamm-56-teil-1-102.html)
 
 
 ## Not in German but hella good
 
-### In Darkness 
+#### In Darkness 
+
 [YouTube](https://play.google.com/store/movies/details/In_Darkness?id=gTUTuaRfVdc)
 
-### Army of Shadows 
+#### Army of Shadows
+
 [YouTube](https://play.google.com/store/movies/details/Army_of_Shadows?id=FWQwCscBskY)
