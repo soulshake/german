@@ -11,11 +11,13 @@ Movies with German audio and English subtitles:
 
 - [Netflix](https://unogs.com/?q=-!1900,2017-!0,5-!0,10-!0,10-!Any-!Any-!German-!English-!I%20Don&cl=23,29,33,307,45,39,337,357,67,68,392,408,270,73,46,78,&st=adv&ob=Relevance&p=1&ao=and) (via unoggs.com)
 
+
 ## Pre-war
 
 #### Babylon Berlin
 
 Absolutely awesome series taking place in late 1920s Berlin. Maybe only available on US Netflix?
+
 
 ## War
 
@@ -39,11 +41,18 @@ Takes place in 1941 in Berlin.
 - [Google](https://play.google.com/store/tv/show/Generation_War?id=xJWFKTYfOHs)
 - [NetFlix](https://www.netflix.com/watch/70286692) (no subtitles?)
 
+#### Das Boot
+
+A German classic film that takes place during WWII.
+
+- [Youtube](https://www.youtube.com/watch?v=Pz_shtYhMu8)
+
 #### Der Untergang (Downfall)
 
 Takes place in Berlin, 1945.
 
 - [Amazon Video](https://www.amazon.de/gp/video/detail/B00JO955KS)
+
 
 ## Post-war
 
@@ -68,7 +77,7 @@ Takes place in 1970, Berlin and Wisconsin.
 
 #### Wir Kinder vom Bahnhof Zoo
 
-Takes place in 70s Berlin.
+A sad film that portrays the drug scene in 70s West Berlin.
 
 - [Youtube](https://www.youtube.com/watch?v=8SaW_Y06fpU)
 
@@ -89,53 +98,127 @@ Takes place in 1984, East Germany.
 
 - [Google](https://play.google.com/store/movies/details/The_Lives_of_Others?id=RZEUw4F3pEA)
 
-#### Goodbye Lenin
+#### Good Bye, Lenin!
 
 Takes place 1989-90, East Berlin.
 
 - [NetFlix](https://www.netflix.com/title/60034095) (not available in Germany?)
 - [YouTube video](https://www.youtube.com/watch?v=Zyz7NOs3F2o) (no subtitles?)
 
+
 ## Post-wall
 
-- Gegen die Wand [trailer](https://www.youtube.com/watch?v=gGd6RaoYPxo)
-- Er ist wieder da [trailer](https://www.youtube.com/watch?v=6Q_oh9wrJv0)
-- Der Schuh des Manitu [clip](https://www.youtube.com/watch?v=x5KNZYDEdBo)
-- Fack Ju Goehte [trailer](https://www.youtube.com/watch?v=_rJKHTjVaFk)
+### Gegen die Wand 
+
+A suicidal woman sets up a marriage of convenience to break free from familial restrictions. 
+
+[trailer](https://www.youtube.com/watch?v=gGd6RaoYPxo)
+
+### Lola rennt 
+
+Lola has 20 minutes to come up with 100,000 Deutschmarks after a botched money delivery. 
+
+[trailer](https://www.youtube.com/watch?v=uz2-D4lY2qg)
+
+### Er ist wieder da 
+
+Adolf Hitler wakes up in the 21st century.
+
+[trailer](https://www.youtube.com/watch?v=6Q_oh9wrJv0)
+
+### Der Schuh des Manitu 
+
+German parody of western films. 
+
+[clip](https://www.youtube.com/watch?v=x5KNZYDEdBo)
+
+### Fack Ju Goehte 
+
+A silly comedy. 
+
+[trailer](https://www.youtube.com/watch?v=_rJKHTjVaFk)
+
+### Die Welle
+
+A thriller inspired by the true story of a teacher who designed an experiment to teach his students about Nazism. 
+
+[trailer](https://youtu.be/4FYDF8wGn5E)
+
 
 # Other
 
 - [German movies on Netflix](https://www.netflix.com/browse/genre/58755?bc=58886) (subtitles not guaranteed)
 
+
 ## TV Shows
 
 #### Dark
-- science-fiction thriller and the first German-language Netflix original series 
+
+A science-fiction thriller and the first German-language Netflix original series. 
+
 [Netflix](https://www.netflix.com/de-en/title/80100172)
 
+#### Deutschland 83
+
+A rookie spy is recruited by the HVA to infiltrate the West German army.
+
+[Amazon](https://www.amazon.de/Deutschland-83-Staffel-1/dp/B018J45ERC)
+
+#### Tuerkisch für Anfaenger
+
+A dramedy that focuses on a German-Turkish family and their everyday lives. 
+
+[Das Erste](http://www.daserste.de/unterhaltung/serie/tuerkisch-fuer-anfaenger/index.html)
+
 #### Lindenstrasse
-- a long-running German soap opera 
+
+A long-running German soap opera.
+
 [ARD](http://www.ardmediathek.de/tv/Lindenstra%C3%9Fe/Sendung?documentId=5280&bcastId=5280)
 
 #### Vorstadtweiber 
-- an Austrian version of Desperate Housewives 
+
+An Austrian version of Desperate Housewives.
+
 [Das Erste](http://mediathek.daserste.de/Vorstadtweiber/Sendung?documentId=27720756&topRessort&bcastId=27720756)
 
 #### Die Anstalt 
-- a political comedy show 
+
+A political comedy show. 
+
 [ZDF](https://www.zdf.de/comedy/die-anstalt)
 
 #### Die Pfefferkoerner 
-- a crime-solving children's show 
+
+A crime-solving children's show with relatively easy German.
+
 [NDR](https://www.ndr.de/fernsehen/sendungen/pfefferkoerner/index.html)
+
 
 ## Not watched yet
 
-- Toyland (short film?) [YouTube](https://www.youtube.com/watch?v=Y0tBSx98knE)
-- Land of Mine / Under Sandet [YouTube](https://www.youtube.com/watch?v=hntghz3xy30)
-- Ku'damm 56 ([NetFlix](https://www.netflix.com/watch/80113229), [ZDF](https://www.zdf.de/filme/kudamm-56/kudamm-56-teil-1-102.html)): Berlin 1956. The young Monika Schöllack fights against her strict mother and the conventions of the time. She gets the power for this through her great passion: Rock 'n' Roll.
+#### Toyland (short film?) 
+
+[YouTube](https://www.youtube.com/watch?v=Y0tBSx98knE)
+
+#### Land of Mine / Under Sandet 
+
+[YouTube](https://www.youtube.com/watch?v=hntghz3xy30)
+
+#### Ku'damm 56 
+
+Berlin 1956: The young Monika Schöllack fights against her strict mother and the conventions of the time. She gets the power for this through her great passion: Rock 'n' Roll.
+
+[NetFlix](https://www.netflix.com/watch/80113229)
+[ZDF](https://www.zdf.de/filme/kudamm-56/kudamm-56-teil-1-102.html)
+
 
 ## Not in German but hella good
 
-- In Darkness [YouTube](https://play.google.com/store/movies/details/In_Darkness?id=gTUTuaRfVdc)
-- Army of Shadows [YouTube](https://play.google.com/store/movies/details/Army_of_Shadows?id=FWQwCscBskY)
+#### In Darkness 
+
+[YouTube](https://play.google.com/store/movies/details/In_Darkness?id=gTUTuaRfVdc)
+
+#### Army of Shadows
+
+[YouTube](https://play.google.com/store/movies/details/Army_of_Shadows?id=FWQwCscBskY)
